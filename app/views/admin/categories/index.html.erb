@@ -1,6 +1,6 @@
 
 <div class="panel panel-default items">
-    <table class="table table-bordered">
+    <table class="table table-bordered" class="table">
       <thead>
         <tr>
   
@@ -11,7 +11,7 @@
       <tbody>
       
         <% @categories.each do |item| %>
-          <tr>
+          <tr class="active">
             <td> <%= item.name %>  </td>
           </tr>
         <% end %>
