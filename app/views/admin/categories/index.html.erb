@@ -1,22 +1,32 @@
 
-<div class="panel panel-default items">
-    <table class="table table-bordered" class="table">
+
+<section class="admin-products-index">
+
+  <header class="page-header">
+    <h1>Admin &raquo; All categories</h1>
+  </header>
+
+  <div class="well">
+    <%= link_to '+ New Categorie', [:new, :admin, :category], class: 'btn btn-info' %>
+  </div>
+
+  <div class="panel panel-default products">
+
+    <table class="table table-bordered">
       <thead>
         <tr>
-  
-          <th>Categories</th>
-        
+         
+          <th>Category Name</th>
+          
         </tr>
       </thead>
       <tbody>
-      
         <% @categories.each do |item| %>
-          <tr class="active">
-            <td> <%= item.name %>  </td>
-          </tr>
+          <%= render 'categorie', item: item %>
         <% end %>
-      
       </tbody>
-      
     </table>
-</div>
+
+  </div>
+
+</section>
