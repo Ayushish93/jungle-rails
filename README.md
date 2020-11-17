@@ -11,7 +11,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 !["Categories Screentshot"](https://github.com/Ayushish93/jungle-rails/blob/master/docs/categories.png?raw=true)
 ### Description Page
 !["Description Screentshot"](https://github.com/Ayushish93/jungle-rails/blob/master/docs/description.png?raw=true)
-### Payment Page
+### Payment 
 !["Payment Screentshot"](https://github.com/Ayushish93/jungle-rails/blob/master/docs/payment.png?raw=true)
 
 
