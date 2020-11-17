@@ -2,6 +2,19 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Final Product
+### Products Page
+!["Products Screentshot"](https://github.com/Ayushish93/jungle-rails/blob/master/docs/products.png?raw=true) 
+### Cart 
+!["Cart Screentshot"](https://github.com/Ayushish93/jungle-rails/blob/master/docs/cart.png?raw=true)
+### Categories Page
+!["Categories Screentshot"](https://github.com/Ayushish93/jungle-rails/blob/master/docs/categories.png?raw=true)
+### Description Page
+!["Description Screentshot"](https://github.com/Ayushish93/jungle-rails/blob/master/docs/description.png?raw=true)
+### Payment Page
+!["Payment Screentshot"](https://github.com/Ayushish93/jungle-rails/blob/master/docs/payment.png?raw=true)
+
+
 
 ## Setup
 
